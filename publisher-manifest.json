@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2de661383f1ccff74756072b",
+  "owner": "kbxmsy",
+  "repo": "page-e1710b23d5badbf56c7c0a9c",
+  "title": "三分机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e1710b23d5badbf56c7c0a9c",
+      "a": "三分机场",
+      "b": "机场官网线路发布页",
+      "entity": "三分机场",
+      "brand": "三分机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "61223749146bc2b8c015250aca6e1a221df3f6d1673fbf0eabe9724bd9591b8e",
+      "content": {
+        "primary_entity": "三分机场",
+        "keyword1": "三分机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，三分机场提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35、¥85，按年付可享更优价格。流量从每月 100GB 到 1000GB，同时在线设备数覆盖 3 台至 20 台，旗舰版针对游戏场景配置 IPLC 专线优化，团队版提供企业定制路由与专属客户经理。选择时可先明确日常设备数量与流量消耗习惯，再对照套餐权益决定订阅周期。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HERO_INTRO": "三分机场面向需要稳定海外网络连接的用户，提供基础版、旗舰版和团队版三种订阅方案，覆盖个人日常、游戏加速和团队协作等不同场景。各档位在流量额度、同时在线设备数和线路类型上有所区分，便于根据实际使用规模灵活挑选。",
+          "AI_VISUAL_TITLE": "三分机场多档订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付享更优价格",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从设备数量与流量需求出发，对比三分机场各档订阅权益。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 流量、3 台设备，适合轻度使用。",
+          "AI_FEATURE_TITLE_2": "旗舰版游戏优化",
+          "AI_FEATURE_TEXT_2": "IPLC 专线优化搭配 300GB 流量与 5 台设备。",
+          "AI_FEATURE_TITLE_3": "团队版高承载",
+          "AI_FEATURE_TEXT_3": "1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "三分机场的订阅可通过常见代理客户端导入使用，具体客户端名称与下载地址由程序提供。不同系统的客户端在导入订阅链接时操作路径略有差异，建议依照所选客户端自身的文档完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，含 100GB 流量与 3 台设备；旗舰版 ¥35/月，提供 300GB 流量、5 台设备及 IPLC 专线游戏优化；团队版 ¥85/月，提供 1000GB 流量与 20 台设备。三档均支持按年付，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "订阅配置指引",
+          "AI_GUIDE_INTRO": "先确定使用规模，再对照客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版或团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用操作系统与客户端是否支持导入订阅链接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档将订阅链接导入，并按提示完成节点选择。",
+          "AI_FAQ_TITLE": "常见问答",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三分机场的套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "套餐档位按订阅周期生效，周期内可联系支持了解升级或调整方式，具体以实际购买时的可选操作项为准。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版提供 100GB 流量与 3 台设备，旗舰版提供 300GB 流量、5 台设备并含 IPLC 专线优化，适合对游戏延迟有要求的用户。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数如何计算？",
+          "AI_FAQ_ANSWER_3": "同时在线设备数指订阅同一时间可连接的终端数量，基础版为 3 台，旗舰版为 5 台，团队版为 20 台，超出后需等待释放或升级套餐。",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "按年付与按月付提供相同的套餐权益，价格在总支出上更低，例如基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_QUESTION_5": "订阅链接可以导入哪些客户端？",
+          "AI_FAQ_ANSWER_5": "常见代理客户端通常支持导入订阅链接，具体支持范围取决于客户端自身能力，建议按照客户端文档操作，遇到问题可通过工单获得协助。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量习惯挑选合适档位，完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lnqqwtx.cn",
+    "host": "lnqqwtx.cn"
+  },
+  "file_hashes": {
+    "index.html": "b787ca1f74a5f39189753b7dd537a08bed1668d4fa76b2099246f44a2a0494e6",
+    "sitemap.xml": "8a1a14a3a7f98d5eb6f49ebcf21fd186c65c6ee68ff4e9684913976b8df83a86",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6158e5b89cb1e00e880fa7155eaa920cffac3d73f60dadc39a3d9b8a84160f72",
+    "robots.txt": "75022bb7537723cc5ff1227ba6a5e7a47eb8bfc0f19ef283935d979a0c40e080",
+    "847d30f1b2d01cd8251423c441921db2.txt": "d9dbb3b9ec04eeb71977b8b1e86ed3f02460918e45b845bba9924d82e08bd952"
+  },
+  "revision": "28f3e588f606a76063390f225ef52f130ac70dd1f16c251095d5557cfdbaa234"
+}
